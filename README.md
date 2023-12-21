@@ -4,7 +4,7 @@
 
 ## API - Laravel
 
-Este é um projeto de exemplo que demonstra a criação de uma API RESTful em Laravel para uma mini rede social fictícia simples. A API permite que os usuários registrem contas, criem postagens, atualizem postagens, excluam postagens e obtenham informações sobre postagens e usuários.
+Este é um projeto de que demonstra a criação de uma API RESTful em Laravel para uma mini rede social fictícia simples. A API permite que os usuários registrem contas, criem postagens, atualizem postagens, excluam postagens e obtenham informações sobre postagens e usuários.
 
 ## Recursos Principais
 
