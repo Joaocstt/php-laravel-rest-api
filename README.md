@@ -30,4 +30,4 @@ Este é um projeto de exemplo que demonstra a criação de uma API RESTful em La
 3. Configure o arquivo `.env` com as informações do banco de dados.
 4. Execute as migrações do banco de dados com `php artisan migrate`.
 5. Inicie o servidor de desenvolvimento com `php artisan serve`.
-6. Acesse a API em `http://localhost:8000/api`.
+6. Acesse a API em `http://localhost:8000/api/posts`.
